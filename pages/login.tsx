@@ -13,7 +13,7 @@ export default function Login() {
             src="https://developers.google.com/identity/images/g-logo.png"
           />
         </div>
-        <div className="bg-blue-500 px-2 flex items-center self-stretch font-medium">
+        <div className="bg-blue-600 px-2 flex items-center self-stretch font-medium">
           Sign in with Google
         </div>
       </button>
