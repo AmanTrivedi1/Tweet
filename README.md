@@ -19,8 +19,9 @@ This is a Twitter clone that I have build for fun it has a notification function
 - Step 2: install prisma
 - Step 3: Add given env
 - Step 4: Push schema into database
-- Step 5: npm run dev 
-
+- Step 5: Using npx prisma db push
+- Step 6: npm run dev 
+- Step 7: Good to go😊
 ### You can add API references
 | Name | env variable |
 | ----------- | ----------- |
