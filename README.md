@@ -22,7 +22,7 @@ This is a Twitter clone that I have build for fun it has a notification function
 - Step 5: npm run dev 
 
 ### You can add API references
-| Syntax | Description |
+| Name | env variable |
 | ----------- | ----------- |
 |DATABASE_URL  | ################## |
 | NEXTAUTH_JWT_SECRET | Can be anything asdfhadehadert |
